@@ -1,6 +1,12 @@
 # hhr_payStyle
 
 2023-01-27~2023-02-17 프로젝트 기능구현  
-2023-02-15 화면에 안나온 chart.js가 있어서 수정  
+2023-02-28 화면에 안나온 chart.js가 있어서 수정  
+2023-04-03 내 깃허브에 push함.  
+첫날에 대략적인 구조를 텍스트로 작성. 내가 만든 간단한 회원가입과 로그인 위에 각자 페이지 별로 작성하기로 함.  
+
+    
+팀원이 학원에 올 수 없는 이유가 생겨 프론트엔드부분이 달라지게 됨.
   
-<img src="./github.png" width="100px" height="50px" title="Github_Logo"></img>
+ 테이블구조  
+<img src="./payStyle 테이블구조.png" width="600px" height="300px" title="Github_Logo"></img>
