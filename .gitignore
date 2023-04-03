@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### 중요한 내용: db coskey###
+application.yml
