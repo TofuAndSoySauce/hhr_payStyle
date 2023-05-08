@@ -5,7 +5,7 @@
 2023-04-03 내 깃허브에 일단 hhr_test_branch에 push 함.  
 첫날에 대략적인 구조를 텍스트로 작성. 내가 만든 간단한 회원가입과 로그인 위에 각자 페이지 별로 작성하기로 함.  
 
-Springboot maven    
+사용한 IDE 및 기술 : STS, Springboot, maven, oracle db, ajax, jsp, rombok     
   
 가계부, 도서관, 쇼핑 등등이 나옴. 뭔가 너무 어렵지 않으면서 다른 조와 겹치지 않아야 할 것 같다는 의견이 나옴.  
 그래서 가계부로 정함.  
